@@ -22,5 +22,9 @@ TODO:
 
 ## Database
 
-TODO:
--[ ] Select database
+TODO:  
+
+- [ ] Database tasks
+  - [x] MongoDB selected for now as I have never used it and want to learn it.
+  - [ ] Decide on hosted or self hosted db
+  - [ ] Basic structure design
